@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Feria Sustentable Ezeiza</title>
+
+<!--AÑADIENDO CSS AL HTML-->
+
+    <link rel="stylesheet" href="../CSS/style.css">
+</head>
+
+<header>
+    <img class="logo" src="../imagenes/feria sustentable logo fondo transparente -png-.png" alt="logo">
+    <nav>
+        <li> <a href="pages/la feria">La Feria</a></li>
+        <li> <a href="pages/puestos">Puestos</a></li>
+        <li> <a href="pages/fotos">fotos</a></li>
+        <li> <a href="pages/contacto">Contacto</a></li>
+    </nav>
+</header>
+
+<body>
+    <main>
+        <section>
+            <article>
+                <h2>La Feria</h2>
+            </article>
+            <article>
+                <h4>Conócenos un poco</h4>
+            </article>
+            <article>
+                <p>Nuestra “Susten” nació en el mes de Noviembre del año 2019, con la misión es inspirar y promover la adopción de prácticas sostenibles en la vida cotidiana, conectando a emprendedores locales comprometidos con la responsabilidad ambiental. A través de nuestra Feria Sustentable, buscamos crear un espacio inclusivo y educativo donde las y los visitantes puedan descubrir soluciones ecológicas, aprender sobre el impacto positivo de sus elecciones y ser parte activa de la transformación hacia un mundo más equitativo y saludable.
+                    <br>
+                Somos una feria autogestiva, esto significa que se organiza y ejecuta de manera independiente y sin la intervención de grandes entidades o empresas. Es impulsada y dirigida por un hermoso grupo de emprendedoras comprometidas con la causa.</p>
+            </article>
+        </section>
+
+        <section>
+            <article>
+                <h2>El Equipo</h2>
+            </article>
+            <article>
+                <img src="../imagenes/equipo feria.jpg" alt="">
+            </article>
+        </section>
+        <section>
+            <article>
+                <p>
+                    Esta feria es mucho más que una exposición y venta de productos conscientes; es un reflejo de la diversidad y el espíritu emprendedor de nuestra comunidad. Es un lugar en donde las ideas y los sueños florecen y se transforman en realidad.
+                </p>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <section class="logonav">
+            <article>
+                <img src="../imagenes/logo fse recto.png" alt="Logo recto">
+            </article>
+            <article>
+                <li> <a href="pages/la feria">Inicio</a></li>
+                <li> <a href="pages/puestos">Puestos</a></li>
+                <li> <a href="pages/fotos">fotos</a></li>
+                <li> <a href="pages/contacto">Contacto</a></li>
+            </article>
+        </section>
+        <section >
+            <h3>Seguinos en las Redes</h3>
+            <img class="redes" src="../iconos/logos_facebook.png" alt="facebook"> 
+            <img class="redes" src="../iconos/skill-icons_instagram.png"  alt="instagram">
+        </section>
+    </footer>
+    </body>
+    </html> 

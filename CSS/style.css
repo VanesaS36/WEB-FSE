@@ -1,0 +1,163 @@
+* {
+	margin: 0;
+	padding: 0;
+    max-width: 1920px;
+    box-sizing: border-box ;
+}
+
+
+/*Fuentes*/
+@font-face {
+    font-family: gagalin ;
+    src: url(../fuentes/Gagalin-Regular.otf);
+}
+@font-face {
+    font-family: dreaming mayuscula ;
+    src: url(../fuentes/dreaming-outloud-allcaps-regular.otf);
+}
+@font-face {
+    font-family: dreaming minuscula ;
+    src: url(../fuentes/dreaming-outloud-regular.otf);
+}
+
+/*Aplicación de fuentes*/
+h1 {
+    font-family: gagalin;
+    color: #4A7232;
+    text-align: center;
+}
+h2 {
+    font-family: gagalin;
+    color: #4A7232;
+    text-align: center;
+}
+h3 {
+    font-family: dreaming mayuscula ;
+}
+h4 {
+    font-family: dreaming mayuscula ;
+}
+h5 {
+    font-family: dreaming mayuscula ;
+}
+p {
+    font-family: dreaming minuscula;
+}
+
+/* HEADER */
+
+header {
+    text-align: center;
+    background-color: #FBE6CD;
+    padding: 20px;
+}
+.logo {
+    margin: 20px;
+    height: 120px;
+}
+
+
+nav {
+	display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+li{
+    font-family: dreaming mayuscula;
+    font-size: x-large;
+    list-style: none;
+}
+
+
+/* BODY*/
+
+
+
+main {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    height: auto;
+}
+
+main img {
+    width: 100%;
+}
+
+.testimonios {
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+
+}
+
+.relato {
+    max-width: 1140px;
+    font-family: dreaming minuscula;
+    font-size: xx-large;
+    color: #4A7232;
+    margin: auto;
+    
+}
+
+
+
+.comollego {
+    background-color: #FBE6CD;
+    background-size: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    padding: 50px;
+}
+
+
+
+/*BOTONES*/
+
+button {
+    background-color: #F7DA4C;
+    border-radius: 20px;
+    border: none;
+    font-family: dreaming mayuscula;
+    font-size: medium;
+    padding: 8px;
+    margin: 20px;
+}
+
+.botonesrelato {
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+}
+
+
+/*FOOTER*/
+
+footer {
+    background-color: #FBE6CD;
+    background-size: contain;
+    margin-top: auto;
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+    align-content: center;
+}
+
+
+footer li {
+    font-family: dreaming mayuscula;
+    font-size: large;
+    display: inline-flex;
+    margin: 20px;
+    margin-left: 0%;
+    align-content: stretch;
+}
+
+.redes {
+    margin: 10px;
+}
+
+

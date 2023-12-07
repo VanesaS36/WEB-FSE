@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Feria Sustentable Ezeiza</title>
+
+<!--AÑADIENDO CSS AL HTML-->
+
+    <link rel="stylesheet" href="../CSS/style.css">
+</head>
+<body>
+    <header>
+        <img class="logo" src="../imagenes/feria sustentable logo fondo transparente -png-.png" alt="logo">
+        <nav>
+            <li> <a href="pages/la feria">La Feria</a></li>
+            <li> <a href="pages/puestos">Puestos</a></li>
+            <li> <a href="pages/fotos">fotos</a></li>
+            <li> <a href="pages/contacto">Contacto</a></li>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <article>
+                <h2>
+                    La Feria
+                </h2>
+            </article>
+            <article>
+                <h4>
+                    Una imagen vale más que mil palabras
+                </h4>
+            </article>
+        </section>
+        <section>
+            <article>
+                <img src="../imagenes/00 PUESTOS 11.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 15.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 18.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 21.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 22.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 25.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 27.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 31.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 43.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 44.jpg" alt="">
+            </article>
+            <article>
+                <img src="../imagenes/00 PUESTOS 48.jpg" alt="">
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <section class="logonav">
+            <article>
+                <img src="../imagenes/logo fse recto.png" alt="Logo recto">
+            </article>
+            <article>
+                <li> <a href="pages/la feria">Inicio</a></li>
+                <li> <a href="pages/puestos">Puestos</a></li>
+                <li> <a href="pages/fotos">fotos</a></li>
+                <li> <a href="pages/contacto">Contacto</a></li>
+            </article>
+        </section>
+        <section >
+            <h3>Seguinos en las Redes</h3>
+            <img class="redes" src="../iconos/logos_facebook.png" alt="facebook"> 
+            <img class="redes" src="../iconos/skill-icons_instagram.png"  alt="instagram">
+        </section>
+    </footer>
+    </body>
+    </html> 
