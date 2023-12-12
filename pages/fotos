@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -72,7 +73,7 @@
     </main>
 
     <footer>
-        <section class="logonav">
+        <section class="conteiner">
             <article>
                 <img src="../imagenes/logo fse recto.png" alt="Logo recto">
             </article>
@@ -83,8 +84,7 @@
                 <li> <a href="pages/contacto">Contacto</a></li>
             </article>
         </section>
-        <section >
-            <h3>Seguinos en las Redes</h3>
+        <section class="conteiner">
             <img class="redes" src="../iconos/logos_facebook.png" alt="facebook"> 
             <img class="redes" src="../iconos/skill-icons_instagram.png"  alt="instagram">
         </section>

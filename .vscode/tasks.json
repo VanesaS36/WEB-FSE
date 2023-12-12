@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\vanes\\OneDrive\\Escritorio\\DESARROLLO PAG FSE",
+			"problemMatcher": [],
+			"label": "Live Preview: Ejecutar servidor"
+		}
+	]
+}

@@ -1,7 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
-    max-width: 1920px;
+    max-width: 100%;
     box-sizing: border-box ;
 }
 
@@ -47,20 +47,20 @@ p {
 /* HEADER */
 
 header {
-    text-align: center;
+    text-align: center ;
     background-color: #FBE6CD;
-    padding: 20px;
+    
+
 }
 .logo {
-    margin: 20px;
-    height: 120px;
+    margin: 10px;
+    height: 100px;
 }
 
 
 nav {
 	display: flex;
     justify-content: center;
-    gap: 20px;
 }
 
 li{
@@ -78,7 +78,7 @@ main {
     min-height: 100%;
     display: flex;
     flex-direction: column;
-    height: auto;
+    
 }
 
 main img {
@@ -93,12 +93,9 @@ main img {
 }
 
 .relato {
-    max-width: 1140px;
     font-family: dreaming minuscula;
-    font-size: xx-large;
     color: #4A7232;
-    margin: auto;
-    
+    text-align: center;
 }
 
 
@@ -131,6 +128,7 @@ button {
     display: flex;
     padding: 50px;
     justify-content: space-between;
+    margin: auto;
 }
 
 
@@ -138,26 +136,18 @@ button {
 
 footer {
     background-color: #FBE6CD;
-    background-size: contain;
-    margin-top: auto;
-    display: flex;
-    padding: 50px;
-    justify-content: space-between;
-    align-content: center;
+    padding: auto;
+
+
 }
 
 
 footer li {
     font-family: dreaming mayuscula;
-    font-size: large;
-    display: inline-flex;
-    margin: 20px;
-    margin-left: 0%;
-    align-content: stretch;
-}
-
-.redes {
-    margin: 10px;
+    font-size: medium;
+    display: inline;
+    padding: auto;
+    padding: 5px;
 }
 
 
